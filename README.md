@@ -9,7 +9,7 @@ To play the game, simply run the executable file generated after compiling the c
 To compile the code, use a C compiler such as GCC. For example, to compile the code using GCC on Linux, run the following command in the terminal:
 ```bash
     gcc tictactoe.c -o tictactoe
-    ./tictactoe.exe
+    tictactoe.exe
 ```
 
 # Usage
